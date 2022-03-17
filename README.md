@@ -4,10 +4,10 @@ Computer engineering student at the University of São Paulo (USP). Graduated fr
 ## Educational Background & Certificates
 * **💻 Bachelor's Degree in Computer Engineering**<br>
   _University of São Paulo (USP) - Escola Politécnica_<br>
-  March/2021 - Presente
+  March/2021 - Present
 * **🌐 Italian Course**<br>
   _Poliglota Idiomas_<br>
-  March/2021 - Presente
+  March/2021 - Present
 * **🌐 TOEIC BRIDGE - B1 Grade (max. grade)**<br>
   _Federal Instute of Espírito Santo (IFES)_<br>
   April/2020
@@ -16,10 +16,10 @@ Computer engineering student at the University of São Paulo (USP). Graduated fr
   January/2019
 * **🧑‍🔧 Technician Degree in Industrial Mechanics**<br>
   _Federal Instute of Espírito Santo (IFES)_<br>
-  February/2017 - Dezembro/2020
+  February/2017 - December/2020
 * **🌐 English Course**<br>
   _Cultural Norte Americano (CNA)_<br>
-  December/2010 - Dezembro/2018
+  December/2010 - December/2018
 * **🌐 Gold TOEFL Junior Certificate**<br>
   _TOEFL_<br>
   September/2016
