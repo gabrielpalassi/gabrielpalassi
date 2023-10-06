@@ -1,13 +1,13 @@
-# Gabriel C. P. Palassi
-Computer engineering student at the University of São Paulo (USP). Graduated from the Federal Instute of Espírito Santo (IFES) with a technician degree in mechanics. Interested in the financial market, consulting, and in software development.
+<div align="center">
+    <img height="105" src="https://github-readme-stats.vercel.app/api?username=gabrielpalassi&theme=transparent&title_color=ffffff&text_color=909090&hide=contribs,stars&hide_border=true&rank_icon=github"/>
+    <img src="https://skillicons.dev/icons?i=angular,bash,py,css,html,js,ts,c,cpp,docker,figma,ps&perline=6"/>
+</div>
 
-## Educational Background
-
-To see minor degrees and certificates refer to www.linkedin.com/in/gabrielpalassi
-
-* **💻 Bachelor's Degree in Computer Engineering**<br>
-  _University of São Paulo (USP) - Escola Politécnica_<br>
-  March/2021 - Present
-* **🧑‍🔧 Technician Degree in Industrial Mechanics**<br>
-  _Federal Instute of Espírito Santo (IFES)_<br>
-  February/2017 - December/2020
+<div align="center" style="margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/gabrielpalassi/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="border-radius: 5px;margin-right: 3px;"/>
+    </a>
+    <a href="mailto:gabrielpalassi@hotmail.com">
+        <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" style="border-radius: 5px;"/>
+    </a>
+</div>
